@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, Image} from 'react-native';
 import Button from './components/Button';
 import ImageViewer from './components/ImageViewer';
 
+
 const PlaceHolderImage = require('./assets/images/background-image.png');
 
 export default function App() {
@@ -12,7 +13,7 @@ export default function App() {
           <ImageViewer placeholderImageSource={PlaceHolderImage} />
       </View>
       <View style={styles.footerContainer}>
-          <Button label="Choose a photo" />
+          <Button theme="primary" label="Choose a photo" />
           <Button label="Use this photo" />
       </View>
       <StatusBar style="auto" />
