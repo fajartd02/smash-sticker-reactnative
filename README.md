@@ -1,5 +1,5 @@
 # Sticker Smash
-  **Sticker Smash** is apps to edit your photo with our emojies and you can save it to your local phones or website. This app can be running on **android, ios, and website**.
+  **Sticker Smash** is an app to edit your photo with our emojies and you can save it to your local phones or website. This app can be running on **android, ios, and website**.
 
 ## How to Use
   make sure you already installed expo
