@@ -1,10 +1,7 @@
-# STICKER SMASH
-	Upload Photos & Edit -> After edit, you can save to local phones.
+# Sticker Smash
+  **Sticker Smash** is apps to edit your photo with our emojies and you can save it to your local phones or website. This app can be running on **android, ios, and website**.
 
-## Funfact
-	This is my first projects in React Native
-
-## How to Use
+### How to Use
   make sure you already installed expo
   running this:
 - npx expo start
@@ -12,3 +9,11 @@
 - if you didn't want the hard way, you can just download expo go in playstore
 - after download, open, and use the scan qr, do qr in your app expo go and scane the barcode on terminal (for android)
 - for Ios you can only scan use your camera
+
+
+### Demo
+  You can see the video on below:
+  [Watch the Video Demo](https://docs.expo.dev/static/videos/tutorial/final.mp4)
+
+### Funfact
+  	This is my first projects in React Native
