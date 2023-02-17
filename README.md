@@ -10,5 +10,5 @@
 - npx expo start
 - press w for website, press a for android, press i for ios
 - if you didn't want the hard way, you can just download expo go in playstore
-- after download, open, and use the scan qr, do qr in your phone with the barcode on terminal (for android)
+- after download, open, and use the scan qr, do qr in your app expo go and scane the barcode on terminal (for android)
 - for Ios you can only scan use your camera
