@@ -1,5 +1,6 @@
 import * as ImagePicker from 'expo-image-picker';
 import * as MediaLibrary from 'expo-media-library';
+import domtoimage from 'dom-to-image';
 import Button from './components/Button';
 import ImageViewer from './components/ImageViewer';
 import IconButton from './components/IconButton';
@@ -7,7 +8,6 @@ import CircleButton from './components/CircleButton';
 import EmojiPicker from './components/EmojiPicker';
 import EmojiList from './components/EmojiList';
 import EmojiSticker from './components/EmojiSticker';
-import domtoimage from 'dom-to-image';
 import { useState, useRef } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View, Platform } from 'react-native';
