@@ -14,7 +14,6 @@ import { StyleSheet, View, Platform } from 'react-native';
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { captureRef } from 'react-native-view-shot';
 
-
 const PlaceHolderImage = require('./assets/images/background-image.png');
 
 export default function App() {
@@ -119,7 +118,7 @@ export default function App() {
         <EmojiPicker isVisible={isModalVisible} onClose={onModalClose}>
           <EmojiList onSelect={setPickedEmoji} onCloseModal={onModalClose} />
         </EmojiPicker>
-        <StatusBar style="auto" />
+        <StatusBar style="light" />
       </View>
     </GestureHandlerRootView>
   );
